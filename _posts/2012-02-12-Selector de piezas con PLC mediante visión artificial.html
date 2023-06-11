@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Selector de piezas con PLC mediante visión artificial"
+date: 2012-02-12
+background: '/img/selector-piezas/bg.jpeg'
+---
+
+<p>Durante mis estudios en robótica y automatización industrial, gracias a mis profesores, me permití el lujo de ir más allá con los proyectos de clase, buscando aplicar el desarrollo de software y hardware (como arduino y raspberry) adicionalmente al material de clase siempre que veía la oportunidad de hacerlo.</p>
+
+<p>En este caso, el proyecto consistía en la simulación de una fábrica industrial donde, durante la cadena de procesos, un automatismo debía descartar las piezas de un determinado color o material. En la práctica oficial, esto se logra mediante dispositivos capaces de obtener dicha información a través de técnicas como, por ejemplo, los infrarrojos.</p>
+
+<p>Para añadir mi aporte personal, creé una aplicación en Python que era capaz de reconocer el color de las piezas utilizando visión artificial con OpenCV.</p>
+
+<p>Un PC recibe en tiempo real la imagen que capta una cámara, en este caso un teléfono móvil, y mediante un análisis de la imagen, reconoce el color de la pieza que pasa por delante de ella.</p>
+
+<p>En la aplicación, selecciono el color sobre el cual actuará el sistema. Cuando la aplicación detecta una pieza del color seleccionado, manda una orden al PLC para que active la salida que acciona el cilindro expulsor.</p>
+
+<h3>Vídeo</h3>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/FMaVSXbbE3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+<h3>Captura de la aplicación</h3>
+<img src="/img/selector-piezas/1.jpeg">
