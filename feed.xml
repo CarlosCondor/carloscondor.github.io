@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://carloscondor.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://carloscondor.com/" rel="alternate" type="text/html" /><updated>2023-06-17T20:44:13+00:00</updated><id>https://carloscondor.com/feed.xml</id><title type="html">Juan Carlos Delgado</title><subtitle>Aquí solía escribir</subtitle><author><name>Juan Carlos Delgado</name></author><entry><title type="html">He recuperado mi antiguo blog</title><link href="https://carloscondor.com/2023/06/04/he-recuperado-mi-antiguo-blog.html" rel="alternate" type="text/html" title="He recuperado mi antiguo blog" /><published>2023-06-04T00:00:00+00:00</published><updated>2023-06-04T00:00:00+00:00</updated><id>https://carloscondor.com/2023/06/04/he-recuperado-mi-antiguo-blog</id><content type="html" xml:base="https://carloscondor.com/2023/06/04/he-recuperado-mi-antiguo-blog.html"><![CDATA[<p>Conservo este dominio desde hace más de 10 años a pesar de que los últimos 8 o 9 ha estado sin ningún tipo de contenido.</p>
+
+<p>Cuando lo compré tenía claro que la idea era crear un blog en el que documentar mis proyectos personales en el mundo de la tecnología, y ese fue el uso que le dí durante unos años hasta que
+empecé en el mundo laboral donde empecé a contar con menos tiempo libre y lo dejé de lado.</p>
+
+<p>Al poco tiempo dejé de pagar el hosting y todo el contenido se perdió.</p>
+
+<p>Me da pena porque recuerdo que programé y maqueté el blog desde cero como excusa por aprender CodeIgniter (php)<\p>
+
+<p>Ahora lo he recuperado gracias a webarchive y quiero restaurarlo en este blog (que es un simple Jekyll) para que los articulos que escribí en el pasado no se pierdan, y poder venir aquí a recordarlos en el futuro.</p>
+
+<p>Hoy soy una persona distinta pero sin duda marcada por todo lo que hice en aquellos años, así que te animo a echar un vistazo a
+algunas de las entradas más antiguas del blog donde escribía cuando rozaba la mayoría de edad.</p>
+
+<p>Mi idea es ir restaurando los artículos poco a poco e incluso puede que me anime a escribir contenido nuevo relacionado con mi trabajo a día de hoy.</p>]]></content><author><name>Juan Carlos Delgado</name></author><summary type="html"><![CDATA[Conservo este dominio desde hace más de 10 años a pesar de que los últimos 8 o 9 ha estado sin ningún tipo de contenido.]]></summary></entry><entry><title type="html">eGarage - Acceso a garajes sin necesidad de mando</title><link href="https://carloscondor.com/2013/10/20/eGarage-Acceso-a-garajes-sin-necesidad-de-mando.html" rel="alternate" type="text/html" title="eGarage - Acceso a garajes sin necesidad de mando" /><published>2013-10-20T00:00:00+00:00</published><updated>2013-10-20T00:00:00+00:00</updated><id>https://carloscondor.com/2013/10/20/eGarage%20-%20Acceso%20a%20garajes%20sin%20necesidad%20de%20mando</id><content type="html" xml:base="https://carloscondor.com/2013/10/20/eGarage-Acceso-a-garajes-sin-necesidad-de-mando.html"><![CDATA[<p>eGarage es un sistema que controla la entrada y salida de los usuarios en un garaje o parking comunitario. Al hacer una simple llamada sin costo al número de teléfono del sistema, este permite la entrada al usuario, registrando la hora y la fecha de entrada o salida.</p>
+
+<p>Uno o varios administradores podrán, desde una aplicación web o móvil, dar de alta o eliminar de forma instantánea el acceso de los usuarios al recinto.</p>
+
+<p>Además, podrán visualizar en tiempo real el registro de las entradas y salidas que se producen en el recinto desde cualquier parte del mundo.</p>
+
+<p>Su instalación en puertas automáticas previamente instaladas es tan sencilla que solo necesita una toma de corriente o batería a la que conectarse, y él se encarga del resto.</p>
+
+<h2>Ventajas para el usuario</h2>
+
+<p>eGarage reemplaza los típicos mandos de precio excesivo que se utilizan actualmente en el 99% de los sistemas de garajes.</p>
+
+<p>Con eGarage te olvidas de llevar ningún tipo de mando ni llave encima: simplemente con tu móvil realizas una llamada que el sistema rechazará, por lo que no supondrá ningún costo para el usuario, y automáticamente se abrirá la puerta.</p>
+
+<p>Cada miembro de la familia puede estar dado de alta, por lo que no se necesitan varios mandos o llaves con su consiguiente coste.</p>
+
+<p>Desde cualquier parte del mundo puedes abrir la puerta del garaje, de tal forma que si algún amigo o familiar necesita acceder a él, solo tiene que avisarte, y podrás abrirle sin estar presente.</p>
+
+<h2>Ventajas para el administrador del garaje</h2>
+
+<p>Autorización y denegación de acceso a cualquier usuario instantáneamente desde cualquier parte del mundo a través de una aplicación móvil o web.</p>
+
+<p>Visualización en tiempo real de los usuarios que han accedido al garaje.</p>
+
+<p>En caso de incidencia o robo, será fácil determinar qué usuarios accedieron al garaje en el periodo de tiempo deseado.</p>
+
+<p>Es un sistema económico y con menos complicaciones que la asignación de mandos o llaves con coste excesivo.</p>
+
+<h2>Imágenes del sistema eGarage</h2>
+<img src="/img/egarage/1.jpeg" width="100%" height=""alt="Prototipo del producto">
+
+<br>
+<br>
+
+<h2>Aplicación móvil de administración</h2>
+
+<p>Pantalla de inicio</p>
+<img src="/img/egarage/2.png" width="50%" height=""alt="">
+
+<p>Acceso a la aplicación mediante clave</p>
+<img src="/img/egarage/3.png" width="50%" height=""alt="">
+
+<p>Autorización de usuarios</p>
+<img src="/img/egarage/4.png" width="50%" height=""alt="">
+
+<p>Lista de usuarios autorizados</p>
+<img src="/img/egarage/5.png" width="50%" height=""alt="">
+
+
+<p>Registro de acceso al garaje</p>
+<img src="/img/egarage/6.png" width="50%" height=""alt="">
+
+<br><br>
+<h2>Vídeo de funcionamiento</h2>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/UB62Tu88xrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></content><author><name>Juan Carlos Delgado</name></author><summary type="html"><![CDATA[eGarage es un sistema que controla la entrada y salida de los usuarios en un garaje o parking comunitario. Al hacer una simple llamada sin costo al número de teléfono del sistema, este permite la entrada al usuario, registrando la hora y la fecha de entrada o salida.]]></summary></entry><entry><title type="html">Raspberry Pi: cliente de WhatsApp</title><link href="https://carloscondor.com/2013/10/20/Raspberry-Pi-cliente-de-WhatsApp.html" rel="alternate" type="text/html" title="Raspberry Pi: cliente de WhatsApp" /><published>2013-10-20T00:00:00+00:00</published><updated>2013-10-20T00:00:00+00:00</updated><id>https://carloscondor.com/2013/10/20/Raspberry%20Pi:%20cliente%20de%20WhatsApp</id><content type="html" xml:base="https://carloscondor.com/2013/10/20/Raspberry-Pi-cliente-de-WhatsApp.html"><![CDATA[<p>Hace más de un año y medio que no escribo una entrada en el blog. Debido a compromisos laborales, ya no dispongo del tiempo libre que desearía para seguir llevando a cabo estos mini-proyectos con Arduino. Sin embargo, hace unos cinco meses me surgió el deseo de hacer algo con la Raspberry Pi, y hoy finalmente encuentro la motivación para escribirlo.</p>
+<p>Era un sábado por la tarde. Acababa de comer y me apetecía tomar una siesta para estar descansado por la noche. Habíamos quedado para cenar en algún lugar unos colegas y yo, pero aún no habíamos decidido la hora ni el sitio, y todo esto se discutía por WhatsApp a esas horas. Como no quería quedarme dormido sin enterarme del plan, se me ocurrió una idea que, al final, me hizo prescindir de la siesta...</p>
+<p>Convertí la Raspberry Pi en un cliente de WhatsApp que, con ayuda de un altavoz, fuese capaz de leerme los mensajes que llegaban al número de teléfono asociado a la aplicación de WhatsApp. De esta forma, podía tumbarme en la cama y simplemente escuchar lo que mis colegas decían en el grupo "Cena el Sábado".</p>
+<p>Hice un vídeo en el que se puede ver el resultado, aunque la calidad deja mucho que desear. :P</p>
+
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/HfqLidQbdvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></content><author><name>Juan Carlos Delgado</name></author><summary type="html"><![CDATA[Hace más de un año y medio que no escribo una entrada en el blog. Debido a compromisos laborales, ya no dispongo del tiempo libre que desearía para seguir llevando a cabo estos mini-proyectos con Arduino. Sin embargo, hace unos cinco meses me surgió el deseo de hacer algo con la Raspberry Pi, y hoy finalmente encuentro la motivación para escribirlo. Era un sábado por la tarde. Acababa de comer y me apetecía tomar una siesta para estar descansado por la noche. Habíamos quedado para cenar en algún lugar unos colegas y yo, pero aún no habíamos decidido la hora ni el sitio, y todo esto se discutía por WhatsApp a esas horas. Como no quería quedarme dormido sin enterarme del plan, se me ocurrió una idea que, al final, me hizo prescindir de la siesta... Convertí la Raspberry Pi en un cliente de WhatsApp que, con ayuda de un altavoz, fuese capaz de leerme los mensajes que llegaban al número de teléfono asociado a la aplicación de WhatsApp. De esta forma, podía tumbarme en la cama y simplemente escuchar lo que mis colegas decían en el grupo "Cena el Sábado". Hice un vídeo en el que se puede ver el resultado, aunque la calidad deja mucho que desear. :P]]></summary></entry><entry><title type="html">Selector de piezas con PLC mediante visión artificial</title><link href="https://carloscondor.com/2012/02/12/Selector-de-piezas-con-PLC-mediante-visi%C3%B3n-artificial.html" rel="alternate" type="text/html" title="Selector de piezas con PLC mediante visión artificial" /><published>2012-02-12T00:00:00+00:00</published><updated>2012-02-12T00:00:00+00:00</updated><id>https://carloscondor.com/2012/02/12/Selector%20de%20piezas%20con%20PLC%20mediante%20visi%C3%B3n%20artificial</id><content type="html" xml:base="https://carloscondor.com/2012/02/12/Selector-de-piezas-con-PLC-mediante-visi%C3%B3n-artificial.html"><![CDATA[<p>Durante mis estudios en robótica y automatización industrial, gracias a mis profesores, me permití el lujo de ir más allá con los proyectos de clase, buscando aplicar el desarrollo de software y hardware (como arduino y raspberry) adicionalmente al material de clase siempre que veía la oportunidad de hacerlo.</p>
+
+<p>En este caso, el proyecto consistía en la simulación de una fábrica industrial donde, durante la cadena de procesos, un automatismo debía descartar las piezas de un determinado color o material. En la práctica oficial, esto se logra mediante dispositivos capaces de obtener dicha información a través de técnicas como, por ejemplo, los infrarrojos.</p>
+
+<p>Para añadir mi aporte personal, creé una aplicación en Python que era capaz de reconocer el color de las piezas utilizando visión artificial con OpenCV.</p>
+
+<p>Un PC recibe en tiempo real la imagen que capta una cámara, en este caso un teléfono móvil, y mediante un análisis de la imagen, reconoce el color de la pieza que pasa por delante de ella.</p>
+
+<p>En la aplicación, selecciono el color sobre el cual actuará el sistema. Cuando la aplicación detecta una pieza del color seleccionado, manda una orden al PLC para que active la salida que acciona el cilindro expulsor.</p>
+
+<h3>Vídeo</h3>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/FMaVSXbbE3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+<h3>Captura de la aplicación</h3>
+<img src="/img/selector-piezas/1.jpeg">]]></content><author><name>Juan Carlos Delgado</name></author><summary type="html"><![CDATA[Durante mis estudios en robótica y automatización industrial, gracias a mis profesores, me permití el lujo de ir más allá con los proyectos de clase, buscando aplicar el desarrollo de software y hardware (como arduino y raspberry) adicionalmente al material de clase siempre que veía la oportunidad de hacerlo.]]></summary></entry></feed>
